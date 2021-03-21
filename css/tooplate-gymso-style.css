@@ -295,7 +295,7 @@
 
   @media(max-width: 789px){
   	.navbar-brand {
- 	 	font-size: var(--h4-font-size);
+ 	 	font-size: var(--p-font-size);
   	}
   }
 
